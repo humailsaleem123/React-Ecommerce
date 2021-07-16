@@ -1,0 +1,1961 @@
+
+[
+    {
+        "id" : "1",
+        "pname" : "Apart Tote Bag",
+        "imgsrc" : "../images/bags/Apart Tote Bag.jpg",
+        "title" : "Apart Tote Bag",
+        "price" : 66.00,
+        "discount" : "33%",
+        "pricedis" : "$90.00",
+        "category" : "bags"
+    
+
+    },
+
+    {
+        "id" : "2",
+        "pname" : "baby diaper bag",
+        "imgsrc" : "../images/bags/baby diaper bag.jpg",
+        "title" : "baby diaper bag",
+        "price" : 62.90,
+        "discount" : "10%",
+        "pricedis" : "$80.80",
+        "category" : "bags"
+
+    },
+
+    {
+        "id" : "3",
+        "pname" : "Bag Jute",
+        "imgsrc" : "../images/bags/Bag Jute.jpg",
+        "title" : "Bag Jute",
+        "price" : 40.90,
+        "discount" : "20%",
+        "pricedis" : "$80.80",
+        "category" : "bags"
+
+
+    },
+
+
+    {
+        "id" : "4",
+        "pname" : "Bucket Bag",
+        "imgsrc" : "../images/bags/Bucket Bag.jpg",
+        "title" : "Bucket Bag",
+        "price" : 100.90,
+        "discount" : "5%",
+        "pricedis" : "$150.80",
+        "category" : "bags"
+
+
+    },
+
+
+    {
+        "id" : "5",
+        "pname" : "bag",
+        "imgsrc" : "../images/bags/bag.jpg",
+        "title" : "Bag",
+        "price" : 40.00,
+        "discount" : "20%",
+        "pricedis" : "$70.00",
+        "category" : "bags"
+
+    },
+
+
+    {
+        "id" : "6",
+        "pname" : "Chanel bag",
+        "imgsrc" : "../images/bags/Chanel bag.jpg",
+        "title" : "Chanel bag",
+        "price" : 61.90,
+        "discount" : "15%",
+        "pricedis" : "$105.50",
+        "category" : "bags"
+
+
+    },
+
+    
+    {
+        "id" : "7",
+        "pname" : "Nike bag",
+        "imgsrc" : "../images/bags/bag1.jpg",
+        "title" : "Nike bag",
+        "price" : 50.90,
+        "discount" : "15%",
+        "pricedis" : "$105.50",
+        "category" : "bags"
+
+    },
+
+    {
+        "id" : "8",
+        "pname" : "Bag",
+        "imgsrc" : "../images/bags/bag2.jpg",
+        "title" : "Bag",
+        "price" : 40.90,
+        "discount" : "12%",
+        "pricedis" : "$132.50",
+        "category" : "bags"
+
+    },
+
+
+    {
+        "id" : "9",
+        "pname" : "Sport Shoes",
+        "imgsrc" : "../images/shoes/sportshoes.png",
+        "title" : "Shoes",
+        "price" : 90.00,
+        "discount" : "50%",
+        "pricedis" : "$130.00",
+        "category" : "shoes"
+
+    },
+
+    {
+        "id" : "10",
+        "pname" : "Nike Shoes",
+        "imgsrc" : "../images/shoes/nikeshoes.jpg",
+        "title" : "Nike Shoes",
+        "price" : 85.90,
+        "discount" : "35%",
+        "pricedis" : "$145.00",
+        "category" : "shoes"
+
+    },
+
+
+    {
+        "id" : "11",
+        "pname" : "Clear Waterproof",
+        "imgsrc" : "../images/bags/Clear Waterproof.jpg",
+        "title" : "Clear Waterproof",
+        "price" : 124.90,
+        "discount" : "50%",
+        "pricedis" : "$165.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "12",
+        "pname" : "COACH LEATHER",
+        "imgsrc" : "../images/bags/COACH LEATHER.jpg",
+        "title" : "COACH LEATHER",
+        "price" : 14.90,
+        "discount" : "50%",
+        "pricedis" : "$40.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "13",
+        "pname" : "Colorful Ladies Fancy",
+        "imgsrc" : "../images/bags/Colorful Ladies Fancy.jpg",
+        "title" : "Colorful Ladies Fancy",
+        "price" : 24.90,
+        "discount" : "50%",
+        "pricedis" : "$65.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "14",
+        "pname" : "Corduroy Casual",
+        "imgsrc" : "../images/bags/Corduroy Casual.jpg",
+        "title" : "Corduroy Casual",
+        "price" : 34.90,
+        "discount" : "50%",
+        "pricedis" : "$60.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "15",
+        "pname" : "Cosmetic",
+        "imgsrc" : "../images/bags/Cosmetic.jpg",
+        "title" : "Cosmetic",
+        "price" : 24.90,
+        "discount" : "50%",
+        "pricedis" : "$55.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "16",
+        "pname" : "Durable Fashion",
+        "imgsrc" : "../images/bags/Durable Fashion.jpg",
+        "title" : "Durable Fashion",
+        "price" : 37.90,
+        "discount" : "50%",
+        "pricedis" : "$59.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "17",
+        "pname" : "ew Arrival Ladies",
+        "imgsrc" : "../images/bags/ew Arrival Ladies.jpg",
+        "title" : "ew Arrival Ladies",
+        "price" : 33.90,
+        "discount" : "50%",
+        "pricedis" : "$45.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "18",
+        "pname" : "Fashion Custom Nylon",
+        "imgsrc" : "../images/bags/Fashion Custom Nylon.jpg",
+        "title" : "Fashion Custom Nylon",
+        "price" : 15.90,
+        "discount" : "50%",
+        "pricedis" : "$25.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "19",
+        "pname" : "Foldable Baby Bed Diaper Bag",
+        "imgsrc" : "../images/bags/Foldable Baby Bed Diaper Bag.jpg",
+        "title" : "Foldable Baby Bed Diaper Bag",
+        "price" : 25.90,
+        "discount" : "50%",
+        "pricedis" : "$48.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "20",
+        "pname" : "guangzhou airplane",
+        "imgsrc" : "../images/bags/guangzhou airplane.jpg",
+        "title" : "guangzhou airplane",
+        "price" : 28.90,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "21",
+        "pname" : "GUESS LEATHER",
+        "imgsrc" : "../images/bags/GUESS LEATHER.jpg",
+        "title" : "GUESS LEATHER",
+        "price" : 25.88,
+        "discount" : "50%",
+        "pricedis" : "$43.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "22",
+        "pname" : "gym bag",
+        "imgsrc" : "../images/bags/gym bag.jpg",
+        "title" : "gym bag",
+        "price" : 21.50,
+        "discount" : "50%",
+        "pricedis" : "$40.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "23",
+        "pname" : "Hand Bag Lady",
+        "imgsrc" : "../images/bags/Hand Bag Lady.jpg",
+        "title" : "Hand Bag Lady",
+        "price" : 23.50,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "24",
+        "pname" : "High Quality Multifunction",
+        "imgsrc" : "../images/bags/High Quality Multifunction.jpg",
+        "title" : "High Quality Multifunction",
+        "price" : 33.15,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "25",
+        "pname" : "Laptop Backpack",
+        "imgsrc" : "../images/bags/Laptop Backpack.jpg",
+        "title" : "Laptop Backpack",
+        "price" : 38.14,
+        "discount" : "50%",
+        "pricedis" : "$48.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "26",
+        "pname" : "mart laptop",
+        "imgsrc" : "../images/bags/mart laptop.jpg",
+        "title" : "mart laptop",
+        "price" : 18.12,
+        "discount" : "50%",
+        "pricedis" : "$34.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "27",
+        "pname" : "Military Tactical backpack",
+        "imgsrc" : "../images/bags/Military Tactical backpack.jpg",
+        "title" : "Military Tactical backpack",
+        "price" : 13.08,
+        "discount" : "50%",
+        "pricedis" : "$25.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "28",
+        "pname" : "Nylon Belt",
+        "imgsrc" : "../images/bags/Nylon Belt.jpg",
+        "title" : "Nylon Belt",
+        "price" : 47.05,
+        "discount" : "50%",
+        "pricedis" : "$55.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "29",
+        "pname" : "Pink Nylon Gym Duffle",
+        "imgsrc" : "../images/bags/Pink Nylon Gym Duffle.jpg",
+        "title" : "Pink Nylon Gym Duffle",
+        "price" : 28.01,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "30",
+        "pname" : "Rachel Diophy Leather",
+        "imgsrc" : "../images/bags/Rachel Diophy Leather.jpg",
+        "title" : "Rachel Diophy Leather",
+        "price" : 12.20,
+        "discount" : "50%",
+        "pricedis" : "$20.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "31",
+        "pname" : "Rachel Diophy",
+        "imgsrc" : "../images/bags/Rachel Diophy.jpg",
+        "title" : "Rachel Diophy",
+        "price" : 21.13,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "32",
+        "pname" : "Rich Side Bag",
+        "imgsrc" : "../images/bags/Rich Side Bag.jpg",
+        "title" : "Rich Side Bag",
+        "price" : 28.44,
+        "discount" : "50%",
+        "pricedis" : "$40.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "33",
+        "pname" : "School Bags",
+        "imgsrc" : "../images/bags/School Bags.jpg",
+        "title" : "School Bags",
+        "price" : 18.12,
+        "discount" : "50%",
+        "pricedis" : "$24.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "34",
+        "pname" : "Screen Backpack",
+        "imgsrc" : "../images/bags/Screen Backpack.jpg",
+        "title" : "Screen Backpack",
+        "price" : 15.55,
+        "discount" : "50%",
+        "pricedis" : "$20.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "35",
+        "pname" : "Suede Cosmetic Bags",
+        "imgsrc" : "../images/bags/Suede Cosmetic Bags.jpg",
+        "title" : "Suede Cosmetic Bags",
+        "price" : 35.30,
+        "discount" : "50%",
+        "pricedis" : "$55.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "36",
+        "pname" : "tactical bag",
+        "imgsrc" : "../images/bags/tactical bag.jpg",
+        "title" : "tactical bag",
+        "price" : 33.05,
+        "discount" : "50%",
+        "pricedis" : "$60.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "37",
+        "pname" : "travel bag",
+        "imgsrc" : "../images/bags/travel bag.jpg",
+        "title" : "travel bag",
+        "price" : 10.50,
+        "discount" : "50%",
+        "pricedis" : "$24.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "38",
+        "pname" : "Travel Pet",
+        "imgsrc" : "../images/bags/Travel Pet.jpg",
+        "title" : "Travel Pet",
+        "price" : 11.20,
+        "discount" : "50%",
+        "pricedis" : "$20.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "39",
+        "pname" : "Versace Bags",
+        "imgsrc" : "../images/bags/Versace Bags.jpg",
+        "title" : "Versace Bags",
+        "price" : 5.50,
+        "discount" : "50%",
+        "pricedis" : "$10.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "40",
+        "pname" : "waist bag",
+        "imgsrc" : "../images/bags/waist bag.jpg",
+        "title" : "waist bag",
+        "price" : 13.10,
+        "discount" : "50%",
+        "pricedis" : "$22.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "41",
+        "pname" : "waterproof baby diaper",
+        "imgsrc" : "../images/bags/waterproof baby diaper.jpg",
+        "title" : "waterproof baby diaper",
+        "price" : 17.50,
+        "discount" : "50%",
+        "pricedis" : "$24.20",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "42",
+        "pname" : "WATERPROOF COSMETIC",
+        "imgsrc" : "../images/bags/WATERPROOF COSMETIC.jpg",
+        "title" : "WATERPROOF COSMETIC",
+        "price" : 19.50,
+        "discount" : "50%",
+        "pricedis" : "$34.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "43",
+        "pname" : "wholesale fashion  bags",
+        "imgsrc" : "../images/bags/wholesale fashion  bags.jpg",
+        "title" : "wholesale fashion  bags",
+        "price" : 30.50,
+        "discount" : "50%",
+        "pricedis" : "$44.00",
+        "category" : "bags"
+
+
+    },
+
+    {
+        "id" : "44",
+        "pname" : "Brumano Cotton Casual Men Shirts",
+        "imgsrc" : "../images/garments/Brumano Cotton Casual Men Shirts.jpg",
+        "title" : "Brumano Cotton Casual Men Shirts",
+        "price" : 100.50,
+        "discount" : "20%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+    
+    {
+        "id" : "45",
+        "pname" : "Brumano Cotton Full Sleeves Zipper Sweaters",
+        "imgsrc" : "../images/garments/Brumano Cotton Full Sleeves Zipper Sweaters.jpg",
+        "title" : "Brumano Cotton Full Sleeves Zipper Sweaters",
+        "price" : 120.50,
+        "discount" : "20%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "46",
+        "pname" : "Casual Cotton Stitched Bottoms",
+        "imgsrc" : "../images/garments/Casual Cotton Stitched Bottoms.jpg",
+        "title" : "Casual Cotton Stitched Bottoms",
+        "price" : 170.50,
+        "discount" : "20%",
+        "pricedis" : "$200.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "47",
+        "pname" : "Casual Men Blazer  Navy Blue",
+        "imgsrc" : "../images/garments/Casual Men Blazer  Navy Blue.jpg",
+        "title" : "Casual Men Blazer  Navy Blue",
+        "price" : 150.40,
+        "discount" : "20%",
+        "pricedis" : "$200.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "48",
+        "pname" : "fire red hoddie",
+        "imgsrc" : "../images/garments/fire red hoddie.jpg",
+        "title" : "fire red hoddie",
+        "price" : 125.10,
+        "discount" : "20%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "49",
+        "pname" : "girls t shirts",
+        "imgsrc" : "../images/garments/girls t shirts.jpg",
+        "title" : "girls t shirts",
+        "price" : 70.70,
+        "discount" : "10%",
+        "pricedis" : "$90.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "50",
+        "pname" : "green t shirt",
+        "imgsrc" : "../images/garments/green t shirt.jpg",
+        "title" : "green t shirt",
+        "price" : 110.50,
+        "discount" : "5%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "51",
+        "pname" : "Gul Ahmed Embroidered Lawn Suits",
+        "imgsrc" : "../images/garments/Gul Ahmed Embroidered Lawn Suits.jpg",
+        "title" : "Gul Ahmed Embroidered Lawn Suits",
+        "price" : 160.10,
+        "discount" : "15%",
+        "pricedis" : "$170.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "52",
+        "pname" : "Gul Ahmed Embroidered Lawn",
+        "imgsrc" : "../images/garments/Gul Ahmed Embroidered Lawn.jpg",
+        "title" : "Gul Ahmed Embroidered Lawn",
+        "price" : 200.88,
+        "discount" : "40%",
+        "pricedis" : "$250.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "53",
+        "pname" : "Gul Ahmed Embroidered Net Suits",
+        "imgsrc" : "../images/garments/Gul Ahmed Embroidered Net Suits.jpg",
+        "title" : "Gul Ahmed Embroidered Net Suits",
+        "price" : 105.50,
+        "discount" : "20%",
+        "pricedis" : "$125.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "54",
+        "pname" : "Gul Ahmed Printed Lawn Suits",
+        "imgsrc" : "../images/garments/Gul Ahmed Printed Lawn Suits.jpg",
+        "title" : "Gul Ahmed Printed Lawn Suits",
+        "price" : 130.50,
+        "discount" : "20%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "55",
+        "pname" : "Gul Ahmed Printed Lawn Unstitched Kurties",
+        "imgsrc" : "../images/garments/Gul Ahmed Printed Lawn Unstitched Kurties.jpg",
+        "title" : "Gul Ahmed Printed Lawn Unstitched Kurties",
+        "price" : 250.50,
+        "discount" : "40%",
+        "pricedis" : "$350.00",
+        "category" : "garments"
+
+
+    },
+
+
+    
+    {
+        "id" : "56",
+        "pname" : "hyado",
+        "imgsrc" : "../images/garments/hyado.jpg",
+        "title" : "hyado",
+        "price" : 60.50,
+        "discount" : "50%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "57",
+        "pname" : "khatamshud",
+        "imgsrc" : "../images/garments/khatamshud.jpg",
+        "title" : "khatamshud",
+        "price" : 80.50,
+        "discount" : "20%",
+        "pricedis" : "$100.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "58",
+        "pname" : "Ladies Fashion Garments",
+        "imgsrc" : "../images/Ladies Fashion Garments.jpeg",
+        "title" : "Ladies Fashion Garments",
+        "price" : 90.50,
+        "discount" : "30%",
+        "pricedis" : "$130.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "59",
+        "pname" : "Ladies Fashion Wear",
+        "imgsrc" : "../images/garments/Ladies Fashion Wear.jpg",
+        "title" : "Ladies Fashion Wear",
+        "price" : 60.50,
+        "discount" : "50%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "60",
+        "pname" : "men's printed shirt",
+        "imgsrc" : "../images/garments/men's printed shirt.jpg",
+        "title" : "men's printed shirt",
+        "price" : 30.50,
+        "discount" : "50%",
+        "pricedis" : "$100.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "61",
+        "pname" : "mens-flower-printed-shirt",
+        "imgsrc" : "../images/garments/mens-flower-printed-shirt.jpg",
+        "title" : "mens-flower-printed-shirt",
+        "price" : 80.50,
+        "discount" : "35%",
+        "pricedis" : "$100.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "62",
+        "pname" : "NIKE NRG ACG SMITH SMT CARGO PANTS",
+        "imgsrc" : "../images/garments/NIKE NRG ACG SMITH SMT CARGO PANTS.jpg",
+        "title" : "NIKE NRG ACG SMITH SMT CARGO PANTS",
+        "price" : 100.20,
+        "discount" : "20%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "63",
+        "pname" : "Noor by Saadia Asad Embroidered Lawn Suits",
+        "imgsrc" : "../images/garments/Noor by Saadia Asad Embroidered Lawn Suits.jpg",
+        "title" : "Noor by Saadia Asad Embroidered Lawn Suits",
+        "price" : 135.50,
+        "discount" : "10%",
+        "pricedis" : "$145.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "64",
+        "pname" : "Ochre Chiffon Fancy ffor girls",
+        "imgsrc" : "../images/garments/Ochre Chiffon Fancy ffor girls.jpg",
+        "title" : "Ochre Chiffon Fancy ffor girls",
+        "price" : 150.20,
+        "discount" : "30%",
+        "pricedis" : "$170.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "65",
+        "pname" : "Ochre Chiffon Fancy",
+        "imgsrc" : "../images/garments/Ochre Chiffon Fancy.jpg",
+        "title" : "NIKE NRG ACG SMITH SMT CARGO PANTS",
+        "price" : 300.20,
+        "discount" : "30%",
+        "pricedis" : "$420.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "66",
+        "pname" : "Ochre Chiffon",
+        "imgsrc" : "../images/garmentsOchre Chiffon.jpg",
+        "title" : "Ochre Chiffon",
+        "price" : 60.20,
+        "discount" : "50%",
+        "pricedis" : "$120.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "67",
+        "pname" : "Ochre Lawn Fancy Girls Kurtis",
+        "imgsrc" : "../images/garments/Ochre Lawn Fancy Girls Kurtis.jpg",
+        "title" : "Ochre Lawn Fancy Girls Kurtis",
+        "price" : 130.20,
+        "discount" : "20%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "68",
+        "pname" : "Ochre Lawn Fancy Girls",
+        "imgsrc" : "../images/garments/Ochre Lawn Fancy Girls.jpg",
+        "title" : "Ochre Lawn Fancy Girls",
+        "price" : 147.20,
+        "discount" : "20%",
+        "pricedis" : "$180.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "69",
+        "pname" : "Ochre Organza Fancy Girls",
+        "imgsrc" : "../images/garments/Ochre Organza Fancy Girls.jpg",
+        "title" : "Ochre Organza Fancy Girls",
+        "price" : 132.20,
+        "discount" : "5%",
+        "pricedis" : "$140.00",
+        "category" : "garments"
+
+
+    },
+
+
+    {
+        "id" : "70",
+        "pname" : "Off-Course Pants",
+        "imgsrc" : "../images/garments/Off-Course Pants.jpg",
+        "title" : "Off-Course Pants",
+        "price" : 122.20,
+        "discount" : "7%",
+        "pricedis" : "$130.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "71",
+        "pname" : "printed t shirts",
+        "imgsrc" : "../images/garments/printed t shirts.jpg",
+        "title" : "printed t shirts",
+        "price" : 135.20,
+        "discount" : "10%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "72",
+        "pname" : "shirt",
+        "imgsrc" : "../images/garments/shirt.jpg",
+        "title" : "shirt",
+        "price" : 45.20,
+        "discount" : "40%",
+        "pricedis" : "$100.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "73",
+        "pname" : "Sobia Nazir Embroidered Lawn Suits",
+        "imgsrc" : "../images/garments/Sobia Nazir Embroidered Lawn Suits.jpg",
+        "title" : "Sobia Nazir Embroidered Lawn Suits",
+        "price" : 138.20,
+        "discount" : "20%",
+        "pricedis" : "$150.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "74",
+        "pname" : "Off-Course Pants",
+        "imgsrc" : "../images/garments/Off-Course Pants.jpg",
+        "title" : "Off-Course Pants",
+        "price" : 122.20,
+        "discount" : "7%",
+        "pricedis" : "$130.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "75",
+        "pname" : "Wash N Wear Formal Kurta Shalwar for Men",
+        "imgsrc" : "../images/garments/Wash N Wear Formal Kurta Shalwar for Men.jpg",
+        "title" : "Wash N Wear Formal Kurta Shalwar for Men",
+        "price" : 145.20,
+        "discount" : "40%",
+        "pricedis" : "$175.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "76",
+        "pname" : "Womens Fancy Dresses by Alsadiq Garments.",
+        "imgsrc" : "../images/garments/Womens Fancy Dresses by Alsadiq Garments..jpg",
+        "title" : "Womens Fancy Dresses by Alsadiq Garments.",
+        "price" : 142.20,
+        "discount" : "7%",
+        "pricedis" : "$170.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "77",
+        "pname" : "Zaaviay Embroidered Net Stitched 3 Piece Suit DHOL BAJE",
+        "imgsrc" : "../images/garments/Zaaviay Embroidered Net Stitched 3 Piece Suit DHOL BAJE.jpg",
+        "title" : "Zaaviay Embroidered Net Stitched 3 Piece Suit DHOL BAJE",
+        "price" : 160.20,
+        "discount" : "7%",
+        "pricedis" : "$180.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "78",
+        "pname" : "Zaaviay Embroidered Net Stitched",
+        "imgsrc" : "../images/garments/Zaaviay Embroidered Net Stitched.jpg",
+        "title" : "Zaaviay Embroidered Net Stitched",
+        "price" : 145.20,
+        "discount" : "25%",
+        "pricedis" : "$155.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "79",
+        "pname" : "Zaaviay Embroidered Raw Silk",
+        "imgsrc" : "../images/garments/Zaaviay Embroidered Raw Silk.jpg",
+        "title" : "Zaaviay Embroidered Raw Silk",
+        "price" : 222.20,
+        "discount" : "15%",
+        "pricedis" : "$250.00",
+        "category" : "garments"
+
+
+    },
+
+    {
+        "id" : "80",
+        "pname" : "adidas  Basketball Shoe",
+        "imgsrc" : "../images/shoes/adidas  Basketball Shoe.jpg",
+        "title" : "adidas  Basketball Shoe",
+        "price" : 60.20,
+        "discount" : "10%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "81",
+        "pname" : "adidas Child Racer  Running Shoe",
+        "imgsrc" : "../images/shoes/adidas Child Racer  Running Shoe.jpg",
+        "title" : "adidas Child Racer  Running Shoe",
+        "price" : 40.20,
+        "discount" : "30%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "82",
+        "pname" : "adidas Classic Boots Soccer Shoe",
+        "imgsrc" : "../images/shoes/adidas Classic Boots Soccer Shoe.jpg",
+        "title" : "adidas Classic Boots Soccer Shoe",
+        "price" : 63.20,
+        "discount" : "10%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "83",
+        "pname" : "adidas CLN Running Shoe",
+        "imgsrc" : "../images/shoes/adidas CLN Running Shoe.jpg",
+        "title" : "adidas CLN Running Shoe",
+        "price" : 50.20,
+        "discount" : "20%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "84",
+        "pname" : "adidas  Basketball Shoe",
+        "imgsrc" : "../images/shoes/adidas  Basketball Shoe.jpg",
+        "title" : "adidas  Basketball Shoe",
+        "price" : 60.20,
+        "discount" : "10%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "85",
+        "pname" : "adidas Kids",
+        "imgsrc" : "../images/shoes/adidas Kids.jpg",
+        "title" : "adidas Kids",
+        "price" : 55.20,
+        "discount" : "20%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "86",
+        "pname" : "adidas Unisex",
+        "imgsrc" : "../images/shoes/adidas Unisex.jpg",
+        "title" : "adidas Unisex",
+        "price" : 65.20,
+        "discount" : "10%",
+        "pricedis" : "$85.00",
+        "category" : "shoes"
+
+
+    },
+
+
+    {
+        "id" : "87",
+        "pname" : "adidas Women's  Running Shoe",
+        "imgsrc" : "../images/shoes/adidas Women's  Running Shoe.jpg",
+        "title" : "adidas Women's  Running Shoe",
+        "price" : 80.20,
+        "discount" : "20%",
+        "pricedis" : "$90.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "88",
+        "pname" : "adidas Women's Cloudfoam Pure   Shoe",
+        "imgsrc" : "../images/shoes/adidas Women's Cloudfoam Pure   Shoe.jpg",
+        "title" : "adidas Women's Cloudfoam Pure   Shoe",
+        "price" : 63.20,
+        "discount" : "25%",
+        "pricedis" : "$90.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "89",
+        "pname" : "Carter's Child Casual S Canvas Shoe",
+        "imgsrc" : "../images/shoes/Carter's Child Casual S Canvas Shoe.jpg",
+        "title" : "Carter's Child Casual S Canvas Shoe",
+        "price" : 73.20,
+        "discount" : "20%",
+        "pricedis" : "$85.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "90",
+        "pname" : "Casual shoes",
+        "imgsrc" : "../images/shoes/Casual shoes.jpg",
+        "title" : "Casual shoes",
+        "price" : 63.20,
+        "discount" : "12%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "91",
+        "pname" : "OshKosh On Shoe",
+        "imgsrc" : "../images/shoes/OshKosh On Shoe.jpg",
+        "title" : "OshKosh On Shoe",
+        "price" : 65.20,
+        "discount" : "12%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "92",
+        "pname" : "OshKosh Tennis Shoes  Sneakers",
+        "imgsrc" : "../images/shoes/OshKosh Tennis Shoes  Sneakers.jpg",
+        "title" : "OshKosh Tennis Shoes  Sneakers",
+        "price" : 75.20,
+        "discount" : "12%",
+        "pricedis" : "$82.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "93",
+        "pname" : "RC 2092 Men Casual Shoes",
+        "imgsrc" : "../images/shoes/RC 2092 Men Casual Shoes.jpg",
+        "title" : "RC 2092 Men Casual Shoes",
+        "price" : 65.20,
+        "discount" : "12%",
+        "pricedis" : "$88.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "94",
+        "pname" : "Simple Joys by Carter's Toddler",
+        "imgsrc" : "../images/shoes/Simple Joys by Carter's Toddler.jpg",
+        "title" : "Simple Joys by Carter's Toddler",
+        "price" : 44.50,
+        "discount" : "12%",
+        "pricedis" : "$55.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "95",
+        "pname" : "Skechers Women's 33492 Sneaker",
+        "imgsrc" : "../images/shoes/Skechers Women's 33492 Sneaker.jpg",
+        "title" : "Skechers Women's 33492 Sneaker",
+        "price" : 77.20,
+        "discount" : "20%",
+        "pricedis" : "100.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "96",
+        "pname" : "Skechers Women's D'Lites Sneaker",
+        "imgsrc" : "../images/shoes/Skechers Women's D'Lites Sneaker.jpg",
+        "title" : "Skechers Women's D'Lites Sneaker",
+        "price" : 85.20,
+        "discount" : "10%",
+        "pricedis" : "$95.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "97",
+        "pname" : "TOMS Women's  Loafer",
+        "imgsrc" : "../images/shoes/TOMS Women's  Loafer.jpg",
+        "title" : "TOMS Women's  Loafer",
+        "price" : 66.52,
+        "discount" : "12%",
+        "pricedis" : "$77.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "98",
+        "pname" : "TOMS Women's Alpargata Loafer",
+        "imgsrc" : "../images/shoes/TOMS Women's Alpargata Loafer.jpg",
+        "title" : "TOMS Women's Alpargata Loafer",
+        "price" : 64.22,
+        "discount" : "18%",
+        "pricedis" : "$88.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "99",
+        "pname" : "Under Armour  Closure Shoe",
+        "imgsrc" : "../images/shoes/Under Armour  Closure Shoe.jpg",
+        "title" : "Under Armour  Closure Shoe",
+        "price" : 100.20,
+        "discount" : "12%",
+        "pricedis" : "$120.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "100",
+        "pname" : "Under Armour Alternate Closure Sneaker",
+        "imgsrc" : "../images/shoes/Under Armour Alternate Closure Sneaker.jpg",
+        "title" : "Under Armour Alternate Closure Sneaker",
+        "price" : 75.20,
+        "discount" : "18%",
+        "pricedis" : "$100.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "101",
+        "pname" : "Under Armour Assert 8 Sneaker",
+        "imgsrc" : "../images/shoes/Under Armour Assert 8 Sneaker.jpg",
+        "title" : "Under Armour Assert 8 Sneaker",
+        "price" : 55.20,
+        "discount" : "15%",
+        "pricedis" : "$70.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "102",
+        "pname" : "Under Armour Boy's Assert 9 AC",
+        "imgsrc" : "../images/shoes/Under Armour Boy's Assert 9 AC.jpg",
+        "title" : "Under Armour Boy's Assert 9 AC",
+        "price" : 33.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "103",
+        "pname" : "Under ArmourChild Sneaker",
+        "imgsrc" : "../images/shoes/Under ArmourChild Sneaker.jpg",
+        "title" : "Under ArmourChild Sneaker",
+        "price" : 45.20,
+        "discount" : "18%",
+        "pricedis" : "$100.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "104",
+        "pname" : "Unisex-Child Casual Sneaker",
+        "imgsrc" : "../images/shoes/Unisex-Child Casual Sneaker.jpg",
+        "title" : "Unisex-Child Casual Sneaker",
+        "price" : 95.20,
+        "discount" : "18%",
+        "pricedis" : "$110.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "105",
+        "pname" : "Wendy Original Shoe",
+        "imgsrc" : "../images/shoes/Wendy Original Shoe.jpg",
+        "title" : "Under Armour Alternate Closure Sneaker",
+        "price" : 32.20,
+        "discount" : "18%",
+        "pricedis" : "$100.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "106",
+        "pname" : "Wide Basketball Shoe",
+        "imgsrc" : "../images/shoes/Wide Basketball Shoe.jpg",
+        "title" : "Wide Basketball Shoe",
+        "price" : 69.20,
+        "discount" : "18%",
+        "pricedis" : "$99.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "107",
+        "pname" : "Women's FuelCore Sneaker",
+        "imgsrc" : "../images/shoes/Women's FuelCore Sneaker.jpg",
+        "title" : "Women's FuelCore Sneaker",
+        "price" : 12.20,
+        "discount" : "40%",
+        "pricedis" : "$30.00",
+        "category" : "shoes"
+
+
+    },
+
+    {
+        "id" : "108",
+        "pname" : "Amala Candy Special",
+        "imgsrc" : "../images/edibles/Amala Candy Special.jpg",
+        "title" : "Amala Candy Special",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    
+    {
+        "id" : "109",
+        "pname" : "Baby Ruth",
+        "imgsrc" : "../images/edibles/Baby Ruth.jpg",
+        "title" : "Baby Ruth",
+        "price" : 35.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    
+    {
+        "id" : "110",
+        "pname" : "Big Bird Chicken Chips",
+        "imgsrc" : "../images/edibles/Big Bird Chicken Chips.jpg",
+        "title" : "Big Bird Chicken Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+       
+    {
+        "id" : "111",
+        "pname" : "Bisconi Chocolate Chip Cookies",
+        "imgsrc" : "../images/edibles/Bisconi Chocolate Chip Cookies.jpg",
+        "title" : "Bisconi Chocolate Chip Cookies",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },  
+    
+    
+    {
+        "id" : "112",
+        "pname" : "Butter Scotch Candy",
+        "imgsrc" : "../images/edibles/Butter Scotch Candy.jpg",
+        "title" : "Butter Scotch Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    }, 
+    
+    
+    {
+        "id" : "113",
+        "pname" : "Buttermix Candy",
+        "imgsrc" : "../images/edibles/Buttermix Candy.jpg",
+        "title" : "Buttermix Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },   
+    
+    
+    {
+        "id" : "114",
+        "pname" : "center filled halal super sour straw candy",
+        "imgsrc" : "../images/edibles/center filled halal super sour straw candy.jpg",
+        "title" : "center filled halal super sour straw candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },   
+    
+    
+    {
+        "id" : "115",
+        "pname" : "Chocolate Chip Premium Ice Cream",
+        "imgsrc" : "../images/edibles/Chocolate Chip Premium Ice Cream.jpg",
+        "title" : "Chocolate Chip Premium Ice Cream",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },  
+    
+    
+    {
+        "id" : "116",
+        "pname" : "Cintu Chintu Love Bite Heart Candy",
+        "imgsrc" : "../images/edibles/Cintu Chintu Love Bite Heart Candy.jpg",
+        "title" : "Cintu Chintu Love Bite Heart Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },  
+    
+    
+    {
+        "id" : "117",
+        "pname" : "COKE CAN",
+        "imgsrc" : "../images/edibles/COKE CAN.jpg",
+        "title" : "COKE CAN",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },  
+    
+    
+    {
+        "id" : "118",
+        "pname" : "Cool Tarbooz Candies",
+        "imgsrc" : "../images/edibles/Cool Tarbooz Candies.jpg",
+        "title" : "Cool Tarbooz Candies",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    }, 
+    
+    
+    {
+        "id" : "119",
+        "pname" : "Desi Popz - Kaccha Aam 4 Pcs Pack",
+        "imgsrc" : "../images/edibles/Desi Popz - Kaccha Aam 4 Pcs Pack.jpg",
+        "title" : "Desi Popz - Kaccha Aam 4 Pcs Pack",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    }, 
+
+
+    {
+        "id" : "120",
+        "pname" : "FANTA CAN",
+        "imgsrc" : "../images/edibles/FANTA CAN.jpg",
+        "title" : "FANTA CAN",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "121",
+        "pname" : "Fitlicious Peanut Butter Choco Chip Bar",
+        "imgsrc" : "../images/edibles/Fitlicious Peanut Butter Choco Chip Bar.jpg",
+        "title" : "Fitlicious Peanut Butter Choco Chip Bar",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "122",
+        "pname" : "Hico Chocolate Chip Ice Cream",
+        "imgsrc" : "../images/edibles/Hico Chocolate Chip Ice Cream.jpg",
+        "title" : "Hico Chocolate Chip Ice Cream",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "123",
+        "pname" : "Hico Vanilla Chocolate Chip Ice Cream",
+        "imgsrc" : "../images/edibles/Hico Vanilla Chocolate Chip Ice Cream.jpg",
+        "title" : "Hico Vanilla Chocolate Chip Ice Cream",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "124",
+        "pname" : "Jems Candy",
+        "imgsrc" : "../images/edibles/Jems Candy.jpg",
+        "title" : "Jems Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "125",
+        "pname" : "Juicy Fruity Candy",
+        "imgsrc" : "../images/edibles/Juicy Fruity Candy.jpg",
+        "title" : "Juicy Fruity Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "126",
+        "pname" : "Kids Masti Cream Cone",
+        "imgsrc" : "../images/edibles/Kids Masti Cream Cone.jpg",
+        "title" : "Kids Masti Cream Cone",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "127",
+        "pname" : "King Chips Crinkle Crisps",
+        "imgsrc" : "../images/edibles/King Chips Crinkle Crisps.jpg",
+        "title" : "King Chips Crinkle Crisps",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "128",
+        "pname" : "Kolson Snackers Chips, French Cheese",
+        "imgsrc" : "../images/edibles/Kolson Snackers Chips, French Cheese.jpg",
+        "title" : "Kolson Snackers Chips, French Cheese",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "129",
+        "pname" : "Lay's French Cheese Potato Chips",
+        "imgsrc" : "../images/edibles/Lay's French Cheese Potato Chips.jpg",
+        "title" : "Lay's French Cheese Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "130",
+        "pname" : "Lay's Masala Potato Chips",
+        "imgsrc" : "../images/edibles/Lay's Masala Potato Chips.jpg",
+        "title" : "Lay's Masala Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "131",
+        "pname" : "Lay's Paprika Potato Chips",
+        "imgsrc" : "../images/edibles/Lay's Paprika Potato Chips.jpg",
+        "title" : "Lay's Paprika Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "132",
+        "pname" : "Lay's Salted Potato Chips",
+        "imgsrc" : "../images/edibles/Lay's Salted Potato Chipss.jpg",
+        "title" : "Lay's Salted Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "133",
+        "pname" : "Lemon flavour candy",
+        "imgsrc" : "../images/edibles/Lemon flavour candy.jpg",
+        "title" : "Lemon flavour candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "134",
+        "pname" : "Magic Popping Grape Candy",
+        "imgsrc" : "../images/edibles/Magic Popping Grape Candy.jpg",
+        "title" : "Magic Popping Grape Candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "135",
+        "pname" : "MINIERAL WATER",
+        "imgsrc" : "../images/edibles/MINIERAL WATER.jpg",
+        "title" : "MINIERAL WATER",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "136",
+        "pname" : "Mochos Salsa Tortilla Chips",
+        "imgsrc" : "../images/edibles/Mochos Salsa Tortilla Chips.jpg",
+        "title" : "Mochos Salsa Tortilla Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "137",
+        "pname" : "nariyal crush candy",
+        "imgsrc" : "../images/edibles/nariyal crush candy.jpg",
+        "title" : "nariyal crush candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "138",
+        "pname" : "Nutri Lov Granola Bars, Chocolate Chip & Coconut",
+        "imgsrc" : "../images/edibles/Nutri Lov Granola Bars, Chocolate Chip & Coconut.jpg",
+        "title" : "Nutri Lov Granola Bars, Chocolate Chip & Coconut",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "139",
+        "pname" : "Peek Freans Chocolate Chip Cookies",
+        "imgsrc" : "../images/edibles/Peek Freans Chocolate Chip Cookies.jpg",
+        "title" : "Peek Freans Chocolate Chip Cookies",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+    {
+        "id" : "140",
+        "pname" : "SPRITE CAN",
+        "imgsrc" : "../images/edibles/SPRITE CAN.jpg",
+        "title" : "SPRITE CAN",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+
+       {
+        "id" : "141",
+        "pname" : "sugar free sour fruit tablet candy",
+        "imgsrc" : "../images/edibles/sugar free sour fruit tablet candy.jpg",
+        "title" : "sugar free sour fruit tablet candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "142",
+        "pname" : "tasty super sour filled sweet candy",
+        "imgsrc" : "../images/edibles/tasty super sour filled sweet candy.jpg",
+        "title" : "tasty super sour filled sweet candy",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "143",
+        "pname" : "Tiffany Delights Chocolate Chip Cookies",
+        "imgsrc" : "../images/edibles/Tiffany Delights Chocolate Chip Cookies.jpg",
+        "title" : "Tiffany Delights Chocolate Chip Cookies",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "144",
+        "pname" : "Tiffany Delights Chocolate Chip Cookies",
+        "imgsrc" : "../images/edibles/Tiffany Delights Chocolate Chip Cookies.jpg",
+        "title" : "Tiffany Delights Chocolate Chip Cookies",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "145",
+        "pname" : "United King Chipsino Plain Salty Potato Chips",
+        "imgsrc" : "../images/edibles/United King Chipsino Plain Salty Potato Chips.jpg",
+        "title" : "United King Chipsino Plain Salty Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    },
+
+    {
+        "id" : "146",
+        "pname" : "United King Chipsino Plain Spicy Potato Chips",
+        "imgsrc" : "../images/edibles/United King Chipsino Plain Spicy Potato Chips.jpg",
+        "title" : "United King Chipsino Plain Spicy Potato Chips",
+        "price" : 25.20,
+        "discount" : "18%",
+        "pricedis" : "$45.00",
+        "category" : "edibles"
+
+
+    }
+
+
+
+
+
+
+]

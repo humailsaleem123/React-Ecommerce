@@ -1,0 +1,127 @@
+.about{
+    margin-top: 70px;
+  }
+  .about .section1st{ 
+    height: 350px;
+    text-align: center;
+    
+  }
+  .about .section1st h3{
+    font-weight: bold;
+    border-top: 1px solid #d4d8de;
+    border-bottom: 1px solid #d4d8de;
+    padding: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: #f2f2f2;
+  }
+  .about .section1st p{
+    font-size: 13px;
+    width:67%;
+    transform: translate(24%,10%);
+  }
+  .about .section2nd{
+    margin-top: 70px;
+    height: 400px;
+  
+  }
+  .about .section2nd h3{
+    font-weight: bold;
+    border-top: 1px solid #d4d8de;
+    border-bottom: 1px solid #d4d8de;
+    padding: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: #f2f2f2;
+    text-align: center;
+  
+  }
+  .about .section2nd p{
+    text-align: center;
+    font-size: 13px;
+    width:67%;
+    transform: translate(24%,10%);
+  }
+  .about .section2nd ul{
+    margin-left: 250px;    
+    list-style: disc; 
+  }
+  .about .section2nd ul li{
+    font-style: italic;
+    width: 70%;
+    text-align: justify;
+    color: #4ebb89;
+    font-size: 13px;
+     margin-bottom: 15px;
+    
+  }
+  .about .section2nd ul li p{
+  
+    width: 70%;
+    transform: translate(24%,10%);
+    color: black;
+  }
+  .about .section3rd{
+    margin-top: 70px;
+    height: 300px;
+  
+  }
+  .about .section3rd h3{
+    font-weight: bold;
+    border-top: 1px solid #d4d8de;
+    border-bottom: 1px solid #d4d8de;
+    padding: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  .about .section3rd p{
+    text-align: center;
+    font-size: 13px;
+    width:67%;
+    transform: translate(24%,10%);
+  }
+  .about .section4th{
+    
+    height: 300px;
+  
+  }
+  .about .section4th h3{
+    font-weight: bold;
+    border-top: 1px solid #d4d8de;
+    border-bottom: 1px solid #d4d8de;
+    padding: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  .about .section4th p{
+    text-align: center;
+    font-size: 13px;
+    width:67%;
+    transform: translate(24%,10%);
+  }
+  .about .section5th{
+      margin-bottom: 50px;
+    height: 350px;
+  
+  }
+  .about .section5th h3{
+    font-weight: bold;
+    border-top: 1px solid #d4d8de;
+    border-bottom: 1px solid #d4d8de;
+    padding: 60px;
+    width: 100%;
+    margin-bottom: 30px;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  .about .section5th p{
+    text-align: center;
+    font-size: 13px;
+    width:67%;
+    transform: translate(24%,10%);
+  
+  }
